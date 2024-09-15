@@ -12,10 +12,11 @@
 # Yuri Capella Dos Santos
 
 <p><b>
-Sou formado em Análise e Desenvolvimento de Sistemas e estou em busca de uma oportunidade para crescer dentro de uma empresa, sempre procurando ampliar meus conhecimentos.
+Sou formado em Análise e Desenvolvimento de Sistemas.
+    
 Experiência autodidata em Python, aplicada ao desenvolvimento de um projeto pessoal para automatizar a digitação de notas fiscais, o que resultou em um aumento significativo na eficiência dos processos.
 
-Estou constantemente estudando e me esforçando para ser o mais ágil possível no que faço.
+Estou constantemente estudando e me esforçando para ser o mais ágil e eficiente possível no que faço.
 </p>
 
 ## Conecte-se comigo
