@@ -13,7 +13,7 @@
 
 <p><b>
 Sou formado em Análise e Desenvolvimento de Sistemas e estou em busca de uma oportunidade para crescer dentro de uma empresa, sempre procurando ampliar meus conhecimentos.
-Ao longo dos anos, realizei alguns cursos de programação. A linguagem que mais me especializei foi Python, onde desenvolvi um projeto pessoal no freelance para automatizar a digitação de notas fiscais, criando um código que otimizou processos manuais.
+Experiência autodidata em Python, aplicada ao desenvolvimento de um projeto pessoal para automatizar a digitação de notas fiscais, o que resultou em um aumento significativo na eficiência dos processos.
 
 Estou constantemente estudando e me esforçando para ser o mais ágil possível no que faço.
 </p>
