@@ -20,7 +20,7 @@ Estou constantemente estudando e me esforçando para ser o mais ágil e eficient
 ## Conecte-se comigo
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge&&color=black)](https://web.dio.me/users/yuricapelladossantos/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=blue&color=black)](https://www.linkedin.com/in/yuricapella/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=blue&color=black)](https://github.com/yuricapella)
+<!--[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=blue&color=black)](https://github.com/yuricapella) -->
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=blue&color=black)](https://hackerrank.com/profile/yuricapelladoss1)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=blue&color=black)](mailto:yuricapelladossantos@gmail.com)
 [![Perfil Fronted Mentor](https://img.shields.io/badge/-Front%20end%20mentor%20-30A3DC?style=for-the-badge&&color=black)](https://www.frontendmentor.io/profile/yuricapella)
