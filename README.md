@@ -73,9 +73,9 @@ Tenho interesse futuramente em fazer um jogo no roblox.
 
 [![Calculadora_Propria](https://github-readme-stats.vercel.app/api/pin/?username=yuricapella&repo=Calculadora_Propria&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/yuricapella/Calculadora_Propria)
 
-[![frontendmentor-challenge1-newbie](https://github-readme-stats.vercel.app/api/pin/?username=yuricapella&repo=frontendmentor-challenge1-newbie&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/yuricapella/frontendmentor-challenge1-newbie)
+[![Projeto_Node](https://github-readme-stats.vercel.app/api/pin/?username=yuricapella&repo=Projeto_Node&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/yuricapella/Projeto_Node)
 
-[![frontendmentor-challenge-2-newbie](https://github-readme-stats.vercel.app/api/pin/?username=yuricapella&repo=frontendmentor-challenge-2-newbie&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/yuricapella/frontendmentor-challenge-2-newbie)
+[![Projeto_Login](https://github-readme-stats.vercel.app/api/pin/?username=yuricapella&repo=Projeto_Login&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/yuricapella/Projeto_Login)
 
 </b>
 </div>
