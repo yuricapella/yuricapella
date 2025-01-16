@@ -63,11 +63,11 @@ Tenho interesse futuramente em fazer um jogo no roblox.
 
 ## GitHub Stats
 
-<div style="display: flex; justify-content: space-between; width: 95%;">
+<div style="display: flex; justify-content: space-between; width: 100%;">
     <img src="https://github-readme-stats.vercel.app/api?username=yuricapella&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=true" 
-         alt="Estatísticas do GitHub" style="width: 48%;">
+         alt="Estatísticas do GitHub" style="width: 50%;">
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yuricapella&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=true" 
-         alt="Linguagem mais usada" style="width: 47%;">
+         alt="Linguagem mais usada" style="width: 50%;">
 </div>
 
 ## Meus principais projetos pessoais por enquanto
