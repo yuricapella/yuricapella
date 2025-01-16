@@ -37,6 +37,7 @@ Atualmente estou no Curso Desenvolva+ do Santander com Mercado Livre, aprendendo
 
 ## Em alguns cursos utilizei
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=blue&color=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=blue&color=black)
 ![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=blue)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=blue&color=black)
