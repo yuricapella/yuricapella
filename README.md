@@ -12,9 +12,9 @@
 # Yuri Capella Dos Santos
 
 <p><b>   
-Experiência autodidata em Python, aplicada ao desenvolvimento de um projeto pessoal para automatizar a digitação de notas fiscais, o que resultou em um aumento significativo na eficiência dos processos.
+Experiência autodidata em Python no Projeto_Extrair,
 
-Estou constantemente estudando e me esforçando para ser o mais ágil e eficiente possível no que faço.
+Atualmente estou no Curso Desenvolva+ do Santander com Mercado Livre, aprendendo muito sobre back-end com Java.
 </p>
 
 ## Conecte-se comigo
