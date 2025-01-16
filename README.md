@@ -30,19 +30,16 @@ Estou constantemente estudando e me esforçando para ser o mais ágil e eficient
 ![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=blue)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=blue)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=blue&color=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=blue&color=black)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=blue&color=black)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=blue&color=black)
 ![LUAU](https://img.shields.io/badge/LUAU-000?style=for-the-badge&logo=luau&logoColor=blue&color=black)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=blue&color=black)
 
-## Em alguns cursos básicos utilizei
+## Em alguns cursos utilizei
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=blue&color=black)
 ![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=blue)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=blue&color=black)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=blue&color=black)
-
-
 
 ## Quero aprender mais sobre:
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=blue&color=black)
@@ -59,6 +56,7 @@ Estou constantemente estudando e me esforçando para ser o mais ágil e eficient
 Tenho interesse futuramente em fazer um jogo no roblox.
 
 ## Ferramentas
+![Intellij](https://img.shields.io/badge/Intellij-000?style=for-the-badge&logo=Intellij&logoColor=blue&color=black)
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=blue&color=black)
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=blue)](https://git-scm.com/doc)
 
@@ -79,7 +77,7 @@ Tenho interesse futuramente em fazer um jogo no roblox.
 
 [![Projeto_Node](https://github-readme-stats.vercel.app/api/pin/?username=yuricapella&repo=Projeto_Node&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/yuricapella/Projeto_Node)
 
-[![Projeto_Login](https://github-readme-stats.vercel.app/api/pin/?username=yuricapella&repo=Projeto_Login&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/yuricapella/Projeto_Login)
+<!--[![Projeto_Login](https://github-readme-stats.vercel.app/api/pin/?username=yuricapella&repo=Projeto_Login&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/yuricapella/Projeto_Login) -->
 
 </b>
 </div>
