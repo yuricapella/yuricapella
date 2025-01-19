@@ -14,7 +14,7 @@
 <p><b>   
 Experiência autodidata em Python no Projeto_Extrair,
 
-Atualmente estou no Curso Desenvolva+ do Santander com Mercado Livre, aprendendo muito sobre back-end com Java.
+Atualmente estou no Curso Desenvolva+ da Ada & Mercado Livre, aprendendo muito sobre back-end com Java.
 </p>
 
 ## Conecte-se comigo
