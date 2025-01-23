@@ -21,8 +21,9 @@ Atualmente estou no Curso Desenvolva+ da Ada & Mercado Livre, aprendendo muito s
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge&&color=black)](https://web.dio.me/users/yuricapelladossantos/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=blue&color=black)](https://www.linkedin.com/in/yuricapella/)
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=blue&color=black)](https://hackerrank.com/profile/yuricapelladoss1)
+[![Coddy](https://img.shields.io/badge/-Coddy-2EC866?style=for-the-badge&logo=Coddy&logoColor=blue&color=black)](https://coddy.tech/user/tCFjULvHcheio8kiSBnOUykdrwy2)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=blue&color=black)](mailto:yuricapelladossantos@gmail.com)
-[![Perfil Fronted Mentor](https://img.shields.io/badge/-Front%20end%20mentor%20-30A3DC?style=for-the-badge&&color=black)](https://www.frontendmentor.io/profile/yuricapella)
+<!--[![Perfil Fronted Mentor](https://img.shields.io/badge/-Front%20end%20mentor%20-30A3DC?style=for-the-badge&&color=black)](https://www.frontendmentor.io/profile/yuricapella) -->
 <!--[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=blue&color=black)](https://github.com/yuricapella) -->
 
 ## Linguagens que possuo experiência com projetos pessoais
