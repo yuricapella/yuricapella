@@ -1,33 +1,16 @@
-<div style="
-    font-family: 'Arial', sans-serif; 
-    background: radial-gradient(circle, #D1E9F6, #87CEFA);
-    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.3);
-    color: #000000;
-    text-align: center;
-    padding: 80px;
-    line-height: 2;
-    letter-spacing: 0.5px;
-    word-spacing: 1px;">
-
 # Yuri Capella Dos Santos
 
-<p><b>   
-Experiência autodidata em Python no Projeto_Extrair,
+## Sobre Mim
+Sou autodidata em Python e atualmente estou no Curso Desenvolva+ da Ada & Mercado Livre, onde estou aprendendo sobre back-end com Java.
 
-Atualmente estou no Curso Desenvolva+ da Ada & Mercado Livre, aprendendo muito sobre back-end com Java.
-</p>
-
-## Conecte-se comigo
+## Conecte-se Comigo
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge&&color=black)](https://web.dio.me/users/yuricapelladossantos/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=blue&color=black)](https://www.linkedin.com/in/yuricapella/)
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=blue&color=black)](https://hackerrank.com/profile/yuricapelladoss1)
 [![Coddy](https://img.shields.io/badge/-Coddy-2EC866?style=for-the-badge&logo=Coddy&logoColor=blue&color=black)](https://coddy.tech/user/tCFjULvHcheio8kiSBnOUykdrwy2)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=blue&color=black)](mailto:yuricapelladossantos@gmail.com)
-<!--[![Perfil Fronted Mentor](https://img.shields.io/badge/-Front%20end%20mentor%20-30A3DC?style=for-the-badge&&color=black)](https://www.frontendmentor.io/profile/yuricapella) -->
-<!--[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=blue&color=black)](https://github.com/yuricapella) -->
 
-## Linguagens que possuo experiência com projetos pessoais
-
+## Experiência em Linguagens
 ![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=blue)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=blue&color=black)
@@ -36,51 +19,27 @@ Atualmente estou no Curso Desenvolva+ da Ada & Mercado Livre, aprendendo muito s
 ![LUAU](https://img.shields.io/badge/LUAU-000?style=for-the-badge&logo=luau&logoColor=blue&color=black)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=blue&color=black)
 
-## Em alguns cursos utilizei
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=blue&color=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=blue&color=black)
-![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=blue)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=blue&color=black)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=blue&color=black)
-
-## Quero aprender mais sobre:
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=blue&color=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=blue&color=black)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=blue&color=black)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=blue&color=black&%)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=blue&color=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=blue&color=black)
-
-### E também:
-
-![LUAU](https://img.shields.io/badge/LUAU-000?style=for-the-badge&logo=luau&logoColor=blue&color=black)
-
-Tenho interesse futuramente em fazer um jogo no roblox.
-
-## Ferramentas
+## Ferramentas Utilizadas
 ![Intellij](https://img.shields.io/badge/Intellij-000?style=for-the-badge&logo=Intellij&logoColor=blue&color=black)
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=blue&color=black)
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=blue)](https://git-scm.com/doc)
 
 ## GitHub Stats
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=yuricapella&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Linguagem mais usada](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yuricapella&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-<div style="display: flex; justify-content: space-between; width: 100%;">
-    <img src="https://github-readme-stats.vercel.app/api?username=yuricapella&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=true" 
-         alt="Estatísticas do GitHub" style="width: 50%;">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yuricapella&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=true" 
-         alt="Linguagem mais usada" style="width: 50%;">
-</div>
-
-## Meus principais projetos pessoais por enquanto
-
+## Projetos Principais
 [![Projeto_Extrair](https://github-readme-stats.vercel.app/api/pin/?username=yuricapella&repo=Projeto_Extrair&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/yuricapella/Projeto_Extrair)
-
 [![Calculadora_Propria](https://github-readme-stats.vercel.app/api/pin/?username=yuricapella&repo=Calculadora_Propria&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/yuricapella/Calculadora_Propria)
-
 [![Projeto_Node](https://github-readme-stats.vercel.app/api/pin/?username=yuricapella&repo=Projeto_Node&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/yuricapella/Projeto_Node)
 
-<!--[![Projeto_Login](https://github-readme-stats.vercel.app/api/pin/?username=yuricapella&repo=Projeto_Login&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/yuricapella/Projeto_Login) -->
+## Interesses Futuros
 
-</b>
-</div>
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=blue&color=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=blue&color=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=blue&color=black)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=blue&color=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=blue&color=black)
+
+### E também:
+Criar um jogo no roblox.
