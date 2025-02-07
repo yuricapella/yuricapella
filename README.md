@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2330A3DC&size=22&center=true&vCenter=true&width=500&lines=Bem-vindo+ao+meu+portfólio!;" />
+</p>
+
 # Yuri Capella Dos Santos
 
 ## Sobre Mim
