@@ -1,13 +1,11 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2330A3DC&size=22&center=true&vCenter=true&width=500&lines=Bem-vindo+ao+meu+portfólio!;" />
-</p>
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/yuricapella/yuricapella/main/imagens/apresentacao.jpeg" width="600" height="400"/>
 </p>
 
 
-# Bem-vindo <img src="https://raw.githubusercontent.com/yuricapella/yuricapella/main/gif/wave.gif" width="30px" height="30px" />
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?color=%2330A3DC&size=22&center=true&vCenter=true&width=500&lines=Bem-vindo+ao+meu+portfólio!;" /></p>
 
 
 <p align="center">
@@ -118,6 +116,10 @@
 
 
 <!--
+gif
+<img src="https://raw.githubusercontent.com/yuricapella/yuricapella/main/gif/wave.gif" width="30px" height="30px" />
+
+
 Cores para utilizar talvez.
 &title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21
 -->
