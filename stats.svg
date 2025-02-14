@@ -1,0 +1,8 @@
+<svg width='400' height='200' xmlns='http://www.w3.org/2000/svg'>
+  <rect width='100%' height='100%' fill='#1e1e2e'/>
+  <text x='20' y='40' fill='#ffffff' font-size='20'>GitHub Stats</text>
+  <text x='20' y='70' fill='#ffffff' font-size='16'>Stars: 18</text>
+  <text x='20' y='100' fill='#ffffff' font-size='16'>Forks: 18</text>
+  <text x='20' y='130' fill='#ffffff' font-size='16'>All-time contributions: 0</text>
+  <text x='20' y='160' fill='#ffffff' font-size='16'>Lines of code changed: 3694</text>
+</svg>
