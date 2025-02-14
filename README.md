@@ -22,7 +22,9 @@ Desenvolvedor Back-End Trainee | Java | Python | Banco de Dados | Regex | Git
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=yuricapella&bg_color=000&title_color=E94D5F&text_color=fff)
 ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=yuricapella&bg_color=000&title_color=E94D5F&text_color=fff)
 ![GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yuricapella)
-![GitHub Stats](https://raw.githubusercontent.com/yuricapella/yuricapella/main/stats.svg)
+#![GitHub Stats](https://raw.githubusercontent.com/yuricapella/yuricapella/main/stats.svg)
+
+![GitHub Stats](https://github.com/yuricapella/yuricapella/blob/main/github-metrics.svg)
 
 
 
