@@ -42,10 +42,19 @@ jobs:
         run: |
           node -e "
           const fs = require('fs');
-          const userData = JSON.parse(fs.readFileSync('stats.json'));
-          const prData = JSON.parse(fs.readFileSync('pull_requests.json'));
-          const commitData = JSON.parse(fs.readFileSync('commits.json'));
-          const mergeData = JSON.parse(fs.readFileSync('merges.json'));
+
+          const safeParse = (file) => {
+            try {
+              return JSON.parse(fs.readFileSync(file));
+            } catch {
+              return {};
+            }
+          };
+
+          const userData = safeParse('stats.json');
+          const prData = safeParse('pull_requests.json');
+          const commitData = Array.isArray(safeParse('commits.json')) ? safeParse('commits.json') : [];
+          const mergeData = safeParse('merges.json');
 
           const stars = userData.public_repos || '0';
           const forks = userData.followers || '0';
