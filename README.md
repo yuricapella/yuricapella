@@ -16,7 +16,14 @@ Desenvolvedor Back-End Trainee | Java | Python | Banco de Dados | Regex | Git
 💬 **Vamos conectar?** Me encontre no [LinkedIn](https://www.linkedin.com/in/yuricapella/) ou entre em contato por [Email](mailto:yuricapelladossantos@gmail.com).  
 
 ---
+
+## Minhas Estatísticas do GitHub
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=yuricapella&bg_color=000&title_color=E94D5F&text_color=fff)
 ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=yuricapella&bg_color=000&title_color=E94D5F&text_color=fff)
-![GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SEU_USUARIO)
+![GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yuricapella)
+![GitHub Stats](https://raw.githubusercontent.com/yuricapella/yuricapella/main/STATS.md)
+![GitHub Stats](https://raw.githubusercontent.com/yuricapella/yuricapella/output/generated/stats.svg)
+
+
 
