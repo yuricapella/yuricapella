@@ -59,7 +59,7 @@ jobs:
           const stars = userData.public_repos || '0';
           const forks = userData.followers || '0';
           const totalPRs = prData.total_count || '0';
-          const totalCommits = commitData.reduce((acc, contrib) => acc + (contrib.total || 0), 0) || '0';
+          const totalCommits = commitData.total_count || '0';
           const totalMerges = mergeData.total_count || '0';
 
           const svgContent = \`
