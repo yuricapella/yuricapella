@@ -84,6 +84,7 @@ jobs:
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
+          git pull --rebase  # Atualiza a branch local antes de enviar
           git add github-metrics.svg
           git commit -m "Update GitHub metrics" || echo "Nothing to commit"
           git push
