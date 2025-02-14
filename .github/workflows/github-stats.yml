@@ -1,0 +1,35 @@
+name: GitHub Stats
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Atualiza todos os dias à meia-noite
+  workflow_dispatch:  # Permite execução manual
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repositório
+        uses: actions/checkout@v4
+
+      - name: Obter estatísticas do GitHub
+        run: |
+          curl -H "Authorization: token ${{ secrets.GH_TOKEN }}" \
+               -H "Accept: application/vnd.github.v3+json" \
+               https://api.github.com/users/${{ github.repository_owner }} > stats.json
+
+      - name: Gerar estatísticas formatadas
+        run: |
+          jq -r '"Stars: " + (.public_repos|tostring) + "\n" +
+                "Forks: " + (.followers|tostring) + "\n" +
+                "All-time contributions: " + (.public_gists|tostring) + "\n" +
+                "Lines of code changed: " + (.disk_usage|tostring) + "\n" +
+                "Repositories with contributions: " + (.total_private_repos|tostring)' stats.json > STATS.md
+
+      - name: Commit e Push das estatísticas
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add STATS.md
+          git commit -m "Atualizar estatísticas do GitHub" || echo "Nada para atualizar"
+          git push
