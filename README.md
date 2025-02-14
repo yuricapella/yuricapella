@@ -7,7 +7,7 @@ exemplo de como colocar imagem no topo
 [![Header](https://raw.githubusercontent.com/yuri/yuri/main/imagem.png "Header")](https://github.com/yuricapella/yuricapella) -->
 
 
-# Olá, eu sou Yuri Capella <img src="https://raw.githubusercontent.com/yuricapella/yuricapella/main/wave.gif" width="30px" height="30px" />
+# Olá, eu sou Yuri Capella <img src="https://raw.githubusercontent.com/yuricapella/yuricapella/main/gif/wave.gif" width="30px" height="30px" />
 
 
 <p align="center">
@@ -26,26 +26,26 @@ exemplo de como colocar imagem no topo
 
 ## 🎯 Habilidades Técnicas
 
-### 💻 Linguagens de Programação
-- **Java:** Desenvolvimento de sistemas e soluções com forte ênfase em Programação Orientada a Objetos.  
-- **Python:** Automação de processos e extração de dados.  
-- **JavaScript (Node.js):** Desenvolvimento de aplicações web simples e manipulação de rotas.
 
-### 🔧 Frameworks e Bibliotecas
-- **Python:**  
-  - **PyQt5:** Criação de interfaces gráficas para aplicativos desktop.  
-  - **Robot Framework:** Automação de testes e processos.  
-  - **Utilitários:** Regex, lxml, pdfplumber, pytesseract, Watchdog.
-- **Node.js:**  
-  - **Express.js:** Gerenciamento de rotas para aplicações web.  
-  - **EJS:** Renderização de views.
+| Categoria                     | Tecnologias / Conceitos                                                                                          |
+| ----------------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| **💻 Linguagens de Programação**| **Java:** Desenvolvimento de sistemas & POO<br>**Python:** Automação de processos e extração de dados<br>**JavaScript (Node.js):** Aplicações web simples & manipulação de rotas  |
+| **🔧 Frameworks e Bibliotecas**| **Python:** PyQt5, Robot Framework, Regex, lxml, pdfplumber, pytesseract, Watchdog<br>**Node.js:** Express.js, EJS |
+| **🗄️ Banco de Dados**         | **MySQL:** Persistência de dados em projetos práticos                                                            |
+| **⚙️ Ferramentas e Conceitos**| **Git:** Controle de versão<br>**POO:** Conceitos aplicados em diversos projetos                                  |
 
-### 🗄️ Banco de Dados
-- **MySQL:** Utilizado para persistência de dados em projetos práticos.
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=fff) 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=fff) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000) 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=fff) 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=fff) 
+![PyQt5](https://img.shields.io/badge/PyQt5-41C7F4?style=flat&logo=python&logoColor=fff) 
+![Robot Framework](https://img.shields.io/badge/Robot_Framework-FF0000?style=flat&logo=robotframework&logoColor=fff) 
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=fff) 
+![EJS](https://img.shields.io/badge/EJS-000000?style=flat&logo=ejs&logoColor=fff) 
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=fff) 
+![POO](https://img.shields.io/badge/POO-000000?style=flat&logo=java&logoColor=fff) 
 
-### ⚙️ Ferramentas e Conceitos
-- **Git:** Controle de versão e colaboração em projetos.  
-- **Programação Orientada a Objetos (POO):** Conceitos aplicados em diversos desafios e projetos.
 ---
 
 ## 🚀 Projetos em Destaque
