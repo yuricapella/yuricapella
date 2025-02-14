@@ -5,13 +5,9 @@
 </p>
 
 
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com?color=%2330A3DC&size=22&center=true&vCenter=true&width=500&lines=Bem-vindo+ao+meu+portfólio!;" /></p>
-
-
-<p align="center">
-  <strong>Desenvolvedor Back-End Trainee</strong> 💻 | Java | Python | Banco de Dados | Regex | Git
-</p>
-
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2330A3DC&size=28&center=true&vCenter=true&width=800&lines=Desenvolvedor+Back-End+Trainee;💻+Java+|+Python+|+Banco+de+Dados+|+Regex+|+Git" alt="Desenvolvedor Back-End Trainee">
+</div>
 
 ## 🌎 Sobre Mim  
 - 🎓 Atualmente estou no **Curso Desenvolva+** da Ada & Mercado Livre, focado em back-end com Java.  
@@ -67,7 +63,7 @@
 
 
 ## 📚 Curso Desenvolva+
-### Aulas
+### ✏️ Aulas
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
   <a href="https://github.com/yuricapella/programacao-orientada-objetos-2">
     <img height="125px" src="https://github-readme-stats.vercel.app/api/pin/?username=yuricapella&repo=programacao-orientada-objetos-2&theme=radical" />
