@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yuricapella/yuricapella/main/imagens/apresentacao.jpeg" width="600" height="400"/>
+  <img src="https://raw.githubusercontent.com/yuricapella/yuricapella/main/imagens/apresentacao.jpeg" width="800" height="400"/>
 </p>
 
 
