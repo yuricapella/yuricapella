@@ -2,59 +2,79 @@ name: Generate GitHub Metrics
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Executa diariamente à meia-noite
+    - cron: "0 0 * * *"  # Executa diariamente
   workflow_dispatch:
   push:
     branches: ["master", "main"]
 
 jobs:
-  github-metrics:
+  update-stats:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Obter estatísticas do GitHub
+      - name: Get GitHub User Data
         run: |
-          curl -H "Authorization: token ${{ secrets.METRICS_TOKEN }}" \
+          curl -H "Authorization: token ${{ secrets.GH_TOKEN }}" \
                -H "Accept: application/vnd.github.v3+json" \
                https://api.github.com/users/${{ github.repository_owner }} > stats.json
 
-      - name: Gerar estatísticas formatadas (STATS.md)
+      - name: Get GitHub Pull Requests
         run: |
-          jq -r '"Stars: " + (.public_repos|tostring) + "\n" +
-                "Forks: " + (.followers|tostring) + "\n" +
-                "All-time contributions: " + (.public_gists|tostring) + "\n" +
-                "Lines of code changed: " + (.disk_usage|tostring) + "\n" +
-                "Repositories with contributions: " + (.total_private_repos|tostring)' stats.json > STATS.md
+          curl -H "Authorization: token ${{ secrets.GH_TOKEN }}" \
+               -H "Accept: application/vnd.github.v3+json" \
+               "https://api.github.com/search/issues?q=author:${{ github.repository_owner }}+type:pr" > pull_requests.json
 
-      - name: Gerar imagem das estatísticas (github-metrics.svg)
+      - name: Get GitHub Commits (Last Year)
+        run: |
+          curl -H "Authorization: token ${{ secrets.GH_TOKEN }}" \
+               -H "Accept: application/vnd.github.v3+json" \
+               https://api.github.com/repos/${{ github.repository }}/stats/contributors > commits.json || echo "[]"
+
+      - name: Get GitHub Merges (Pull Requests Closed)
+        run: |
+          curl -H "Authorization: token ${{ secrets.GH_TOKEN }}" \
+               -H "Accept: application/vnd.github.v3+json" \
+               "https://api.github.com/search/issues?q=author:${{ github.repository_owner }}+type:pr+is:merged" > merges.json
+
+      - name: Generate SVG with Extended Metrics
         run: |
           node -e "
           const fs = require('fs');
-          const stats = JSON.parse(fs.readFileSync('stats.json'));
+          const userData = JSON.parse(fs.readFileSync('stats.json'));
+          const prData = JSON.parse(fs.readFileSync('pull_requests.json'));
+          const commitData = JSON.parse(fs.readFileSync('commits.json'));
+          const mergeData = JSON.parse(fs.readFileSync('merges.json'));
+
+          const stars = userData.public_repos || '0';
+          const forks = userData.followers || '0';
+          const totalPRs = prData.total_count || '0';
+          const totalCommits = commitData.reduce((acc, contrib) => acc + (contrib.total || 0), 0) || '0';
+          const totalMerges = mergeData.total_count || '0';
+
           const svgContent = \`
-          <svg width='600' height='300' xmlns='http://www.w3.org/2000/svg'>
+          <svg width='600' height='350' xmlns='http://www.w3.org/2000/svg'>
             <style>
-              .title { fill: #ffffff; font-size: 24px; font-family: Arial, sans-serif; }
+              .title { fill: #ffffff; font-size: 24px; font-family: Arial, sans-serif; font-weight: bold; }
               .stat { fill: #ffffff; font-size: 18px; font-family: Arial, sans-serif; }
-              .icon { font-size: 18px; }
+              .background { fill: #141321; }
             </style>
-            <rect width='100%' height='100%' fill='#24292e'/>
-            <text x='20' y='40' class='title'>GitHub Statistics</text>
-            <text x='20' y='80' class='stat'>★ Stars: \${stats.public_repos}</text>
-            <text x='20' y='110' class='stat'>⑂ Forks: \${stats.followers}</text>
-            <text x='20' y='140' class='stat'>✎ All-time contributions: \${stats.public_gists}</text>
-            <text x='20' y='170' class='stat'>↺ Lines of code changed: \${stats.disk_usage}</text>
-            <text x='20' y='200' class='stat'>☰ Repositories with contributions: \${stats.total_private_repos}</text>
+            <rect width='100%' height='100%' class='background'/>
+            <text x='20' y='40' class='title'>📊 GitHub Statistics</text>
+            <text x='20' y='80' class='stat'>★ Stars: \${stars}</text>
+            <text x='20' y='110' class='stat'>⑂ Forks: \${forks}</text>
+            <text x='20' y='140' class='stat'>🔀 Pull Requests: \${totalPRs}</text>
+            <text x='20' y='170' class='stat'>✅ Merges (PRs fechados): \${totalMerges}</text>
+            <text x='20' y='200' class='stat'>📌 Commits (último ano): \${totalCommits}</text>
           </svg>\`;
           fs.writeFileSync('github-metrics.svg', svgContent);
           "
 
-      - name: Commit e push das estatísticas
+      - name: Commit and Push
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
-          git add STATS.md github-metrics.svg
-          git commit -m "Atualizar estatísticas do GitHub" || echo "Nada para atualizar"
+          git add github-metrics.svg
+          git commit -m "Update GitHub metrics" || echo "Nothing to commit"
           git push
