@@ -2,12 +2,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=%2330A3DC&size=22&center=true&vCenter=true&width=500&lines=Bem-vindo+ao+meu+portfólio!;" />
 </p>
 
-<!-- 
-exemplo de como colocar imagem no topo
-[![Header](https://raw.githubusercontent.com/yuri/yuri/main/imagem.png "Header")](https://github.com/yuricapella/yuricapella) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yuricapella/yuricapella/main/imagens/apresentacao.jpeg" width="600" height="400"/>
+</p>
 
 
-# Olá, eu sou Yuri Capella <img src="https://raw.githubusercontent.com/yuricapella/yuricapella/main/gif/wave.gif" width="30px" height="30px" />
+# Bem-vindo <img src="https://raw.githubusercontent.com/yuricapella/yuricapella/main/gif/wave.gif" width="30px" height="30px" />
 
 
 <p align="center">
@@ -72,16 +72,16 @@ exemplo de como colocar imagem no topo
 ### Aulas
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
   <a href="https://github.com/yuricapella/programacao-orientada-objetos-2">
-    <img height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=yuricapella&repo=programacao-orientada-objetos-2&theme=radical" />
+    <img height="125px" src="https://github-readme-stats.vercel.app/api/pin/?username=yuricapella&repo=programacao-orientada-objetos-2&theme=radical" />
   </a>
   <a href="https://github.com/yuricapella/programacao-orientada-objetos-1">
-    <img height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=yuricapella&repo=programacao-orientada-objetos-1&theme=radical" />
+    <img height="125px" src="https://github-readme-stats.vercel.app/api/pin/?username=yuricapella&repo=programacao-orientada-objetos-1&theme=radical" />
   </a>
   <a href="https://github.com/yuricapella/logica-programacao-1">
-    <img height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=yuricapella&repo=logica-programacao-1&theme=radical" />
+    <img height="125px" src="https://github-readme-stats.vercel.app/api/pin/?username=yuricapella&repo=logica-programacao-1&theme=radical" />
   </a>
   <a href="https://github.com/yuricapella/ct-meli-coding-tank">
-    <img height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=yuricapella&repo=ct-meli-coding-tank&theme=radical" />
+    <img height="125px" src="https://github-readme-stats.vercel.app/api/pin/?username=yuricapella&repo=ct-meli-coding-tank&theme=radical" />
   </a>
 </div>
 
