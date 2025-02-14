@@ -77,7 +77,7 @@ jobs:
             <text x='20' y='170' class='stat'>✅ Merges (PRs fechados): \${totalMerges}</text>
             <text x='20' y='200' class='stat'>📌 Commits (último ano): \${totalCommits}</text>
           </svg>\`;
-          fs.writeFileSync('github-metrics.svg', svgContent);
+          fs.writeFileSync('.github/workflows/arquivos/github-metrics.svg', svgContent);
           "
 
       - name: Commit and Push
@@ -85,6 +85,6 @@ jobs:
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
           git pull --rebase  # Atualiza a branch local antes de enviar
-          git add github-metrics.svg
+          git add .github/workflows/arquivos/github-metrics.svg
           git commit -m "Update GitHub metrics" || echo "Nothing to commit"
           git push
