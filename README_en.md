@@ -1,4 +1,4 @@
-[![Português](https://img.shields.io/badge/Portugu%C3%AAs-Ativo-green)](README.md)
+[![Português](https://img.shields.io/badge/Portugu%C3%AAs-Clique%20Aqui-green)](README.md)
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%2330A3DC&size=28&center=true&vCenter=true&width=800&lines=Senior+Back-End+Software+Engineer;💻+Java+|+Spring+Boot+|+Microservices+|+Cloud+|+DevOps" alt="Senior Back-End Software Engineer">
