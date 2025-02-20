@@ -1,73 +1,46 @@
-[![English](https://img.shields.io/badge/English-Click%20Here-blue)](README_en.md)
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2330A3DC&size=28&center=true&vCenter=true&width=800&lines=Engenheiro+de+Software+Back-End+Sênior;💻+Java+|+Spring+Boot+|+Microserviços+|+Cloud+|+DevOps" alt="Engenheiro de Software Back-End Sênior">
+  <p><img src="https://readme-typing-svg.herokuapp.com?color=%2330A3DC&size=28&center=true&vCenter=true&width=800&lines=Engenheiro+de+Software+Back-End+Sênior;💻+Java+|+Spring+Boot+|+Microserviços+|+Cloud+|+DevOps" alt="Engenheiro de Software Back-End Sênior"></p>
+
 </div>
 
-## 🌎 Sobre Mim  
-- **Atualmente:** Engenheiro de Software Back-End Sênior no **Mercado Livre**, liderando projetos que utilizam microserviços, arquiteturas distribuídas e soluções em Cloud com Java e Spring Boot.  
-- **Interesses:**  
-  - 🚀 Aperfeiçoamento contínuo em arquiteturas distribuídas e microserviços  
-  - ☁️ Inovações em computação em nuvem  
-  - 🔧 Práticas avançadas de DevOps (Docker, Kubernetes, CI/CD)  
-  - 🔒 Segurança e performance de sistemas  
-  - ⚡ Aplicação de metodologias ágeis e design patterns para ambientes críticos  
-  - 🎮 Desenvolvimento de jogos e experiências interativas no **Roblox** utilizando **Luau**  
-- **Localização:** São José, SC, Brasil.  
-
-💬 **Vamos Conectar?** [LinkedIn](https://www.linkedin.com/in/yuricapella/) | [Email](mailto:yuricapelladossantos@gmail.com)
-
----
+## 🌎 Sobre Mim
+- **Atualmente:** Engenheiro de Software Back-End Sênior no **Mercado Livre**.
+- **Interesses:**
+  - 🚀 Arquiteturas distribuídas e microserviços
+  - ☁️ Computação em nuvem
+  - 🔧 Práticas de DevOps
+  - 🎮 Desenvolvimento de jogos no **Roblox** utilizando **Luau**
+- **Localização:** São José, SC, Brasil.
 
 ## 🎯 Habilidades Técnicas
 
-| Categoria                     | Tecnologias / Conceitos                                                                                                                                                   |
-| ----------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **💻 Linguagens de Programação** | **Java:** Desenvolvimento avançado, POO e criação de APIs RESTful<br>**Python:** Automação, scripts e análise de dados                                                           |
-| **🔧 Frameworks & Bibliotecas**   | **Spring Boot & Spring Cloud:** Desenvolvimento de microserviços escaláveis<br>**DevOps:** Docker, Kubernetes, CI/CD                                                        |
-| **🗄️ Banco de Dados**         | **MySQL, PostgreSQL & NoSQL:** Soluções de persistência para sistemas distribuídos                                                                                        |
-| **⚙️ Ferramentas & Conceitos**  | **Git:** Controle de versão e colaboração<br>**Arquitetura de Microserviços:** Design patterns, segurança e escalabilidade                                                    |
-| **☁️ Computação em Nuvem**      | **AWS / GCP / Azure:** Infraestrutura, deploy e gerenciamento de serviços Cloud Native                                                                                     |                                                                           |
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=fff) 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=fff) 
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=fff) 
-![Microservices](https://img.shields.io/badge/Microservices-000000?style=flat&logo=docker&logoColor=fff) 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=fff) 
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=fff) 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=fff) 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=fff)
-
----
+| Categoria                     | Tecnologias / Conceitos                                                                                                             |
+| ----------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| **💻 Linguagens de Programação** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=fff) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=fff) |
+| **🔧 Frameworks & Bibliotecas**   | ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=fff) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=fff) |
+| **🗄️ Banco de Dados**         | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=fff) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=fff) |
+| **☁️ Computação em Nuvem**      | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=fff) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=fff) |
 
 ## 🚀 Projetos em Destaque
 
-### [Projeto_Microservices](https://github.com/yuricapella/Projeto_Microservices)
-> Sistema distribuído com arquitetura de microserviços para gerenciamento de grandes volumes de dados, integrado com soluções em Cloud e práticas DevOps.  
-**Tecnologias:** Java, Spring Boot, Spring Cloud, Docker, Kubernetes, AWS.  
-✨ *Destaques:* Escalabilidade automática, alta disponibilidade e integração contínua.
+### [Projeto_Microservices](https://github.com/seuusuario/Projeto_Microservices)
+> Sistema distribuído com arquitetura de microserviços para gerenciamento de grandes volumes de dados.
+**Tecnologias:** Java, Spring Boot, Docker, Kubernetes, AWS.
 
-### [Projeto_CloudNative](https://github.com/yuricapella/Projeto_CloudNative)
-> Implantação de uma aplicação back-end robusta com foco em Cloud Native, utilizando práticas modernas e orquestração de containers.  
-**Tecnologias:** Java, Spring Boot, Docker, Kubernetes, CI/CD, GCP.  
-✨ *Destaques:* Deploys ágeis, monitoramento e integração de microserviços.
+### [Projeto_CloudNative](https://github.com/seuusuario/Projeto_CloudNative)
+> Aplicação back-end robusta com foco em soluções Cloud Native.
+**Tecnologias:** Java, Spring Boot, Docker, Kubernetes, GCP.
 
-### [Projeto_MMORPGRoblox](https://github.com/yuricapella/Projeto_MMORPGRoblox)
-> Desenvolvimento de um jogo MMORPG imersivo e interativo no Roblox, com mundos expansivos, missões cooperativas e uma economia virtual dinâmica.  
-**Tecnologias:** Luau, Roblox Studio, APIs personalizadas, integração com back-end em Java e soluções em Cloud.  
-✨ *Destaques:* Design de jogo inovador, experiência interativa e comunidade ativa de jogadores.
+### [Projeto_MMORPGRoblox](https://github.com/seuusuario/Projeto_MMORPGRoblox)
+> Jogo MMORPG desenvolvido no Roblox, com mundos expansivos e missões cooperativas.
+**Tecnologias:** Luau, Roblox Studio, APIs personalizadas.
 
+## 📚 Educação & Certificações
 
----
+- **Curso Arquitetura Inovadora:** Focado na criação e otimização de sistemas distribuídos.
+- **Curso DevOps e Cloud Native:** Treinamento intensivo sobre integração contínua e gerenciamento de ambientes em nuvem.
 
-## 📚 Educação & Cursos Avançados
+## 📫 Contato
 
-### [Curso_ArquiteturaInovadora](#)
-> Curso avançado focado na criação e otimização de sistemas distribuídos, com ênfase em microserviços, design patterns e escalabilidade.  
-**Tecnologias:** Java, Spring Boot, Microserviços, Design Patterns, CI/CD.  
-✨ *Destaques:* Metodologias ágeis, práticas de alta disponibilidade e automação de testes.
-
-### [Curso_DevOpsECloudNative](#)
-> Treinamento intensivo sobre integração contínua, deploy automatizado e gerenciamento de ambientes em nuvem, com foco em ferramentas DevOps.  
-**Tecnologias:** Docker, Kubernetes, Jenkins, AWS, Azure.  
-✨ *Destaques:* Otimização de pipelines, monitoramento e automação em larga escala.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/seuusuario/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=fff)](mailto:seuemail@example.com)
