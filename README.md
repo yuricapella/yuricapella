@@ -2,13 +2,13 @@
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2330A3DC&size=28&center=true&vCenter=true&width=800&lines=Arquiteto+de+Software+Sênior;💻+Java+|+Spring+Boot+|+Microserviços+|+Cloud+|+DevOps" alt="Arquiteto de Software Sênior">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2330A3DC&size=28&center=true&vCenter=true&width=800&lines=Arquiteto+de+Software+Sênior;💻+Java+|+Spring+Boot+|+microsserviços+|+Cloud+|+DevOps" alt="Arquiteto de Software Sênior">
 </div>
 
 ## 🌎 Sobre Mim  
-- **Cargo Atual:** Arquiteto de Software Sênior na **Mercado Livre**, liderando projetos que utilizam microserviços, arquiteturas distribuídas e soluções em nuvem com Java e Spring Boot.  
+- **Cargo Atual:** Arquiteto de Software Sênior na **Mercado Livre**, liderando projetos que utilizam microsserviços, arquiteturas distribuídas e soluções em nuvem com Java e Spring Boot.  
 - **Interesses:**  
-  - 🚀 Melhoria contínua em arquiteturas distribuídas e microserviços  
+  - 🚀 Melhoria contínua em arquiteturas distribuídas e microsserviços  
   - ☁️ Inovações em computação em nuvem  
   - 🔧 Práticas avançadas de DevOps (Docker, Kubernetes, CI/CD)  
   - 🔒 Segurança de sistemas e otimização de performance  
@@ -26,15 +26,15 @@
 | Categoria                     | Tecnologias / Conceitos                                                                                                                                                  |
 | ----------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **💻 Linguagens de Programação** | **Java:** Desenvolvimento avançado, OOP, criação de APIs RESTful<br>**Python:** Automação, scripts, análise de dados                                                               |
-| **🔧 Frameworks & Bibliotecas** | **Spring Boot & Spring Cloud:** Desenvolvimento de microserviços escaláveis<br>**DevOps:** Docker, Kubernetes, CI/CD                                                                |
+| **🔧 Frameworks & Bibliotecas** | **Spring Boot & Spring Cloud:** Desenvolvimento de microsserviços escaláveis<br>**DevOps:** Docker, Kubernetes, CI/CD                                                                |
 | **🗄️ Bancos de Dados**         | **MySQL, PostgreSQL & NoSQL:** Persistência e gestão de dados                                                                                                         |
-| **⚙️ Ferramentas & Conceitos**  | **Git:** Controle de versão e colaboração<br>**Arquitetura de Microserviços:** Padrões de design, segurança, escalabilidade                                                      |
+| **⚙️ Ferramentas & Conceitos**  | **Git:** Controle de versão e colaboração<br>**Arquitetura de microsserviços:** Padrões de design, segurança, escalabilidade                                                      |
 | **☁️ Computação em Nuvem**      | **AWS / GCP / Azure:** Infraestrutura, implantação e gestão de serviços nativos em nuvem                                                                                 |
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=fff) 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=fff) 
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=fff) 
-![Microserviços](https://img.shields.io/badge/Microserviços-000000?style=flat&logo=docker&logoColor=fff) 
+![microsserviços](https://img.shields.io/badge/microsserviços-000000?style=flat&logo=docker&logoColor=fff) 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=fff) 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=fff) 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=fff) 
@@ -44,15 +44,15 @@
 
 ## 🚀 Projetos em Destaque
 
-### [Projeto_Microserviços](https://github.com/yuricapella/Projeto_Microserviços)
-> Um sistema distribuído construído com arquitetura de microserviços para gerenciar grandes volumes de dados, integrado com soluções em nuvem e práticas de DevOps.  
+### [Projeto_microsserviços](https://github.com/yuricapella/Projeto_microsserviços)
+> Um sistema distribuído construído com arquitetura de microsserviços para gerenciar grandes volumes de dados, integrado com soluções em nuvem e práticas de DevOps.  
 **Tecnologias:** Java, Spring Boot, Spring Cloud, Docker, Kubernetes, AWS.  
 ✨ *Destaques:* Escalabilidade automática, alta disponibilidade e integração contínua.
 
 ### [Projeto_CloudNative](https://github.com/yuricapella/Projeto_CloudNative)
 > Implantação de uma aplicação robusta no back-end focada nos princípios de Cloud Native, utilizando práticas de desenvolvimento modernas e orquestração de containers.  
 **Tecnologias:** Java, Spring Boot, Docker, Kubernetes, CI/CD, GCP.  
-✨ *Destaques:* Implantações ágeis, monitoramento e integração de microserviços.
+✨ *Destaques:* Implantações ágeis, monitoramento e integração de microsserviços.
 
 ### [Projeto_MMORPGRoblox](https://github.com/yuricapella/Projeto_MMORPGRoblox)
 > Desenvolvimento de um jogo MMORPG imersivo e interativo no Roblox, com mundos expansivos, missões cooperativas e uma economia virtual dinâmica.  
@@ -65,8 +65,8 @@
 ## 📚 Educação & Cursos Avançados
 
 ### [Curso_ArquiteturaInovadora](#)
-> Um curso avançado focado em projetar e otimizar sistemas distribuídos, com ênfase em Microserviços, padrões de design e escalabilidade.  
-**Tecnologias:** Java, Spring Boot, Microserviços, Padrões de Design, CI/CD.  
+> Um curso avançado focado em projetar e otimizar sistemas distribuídos, com ênfase em microsserviços, padrões de design e escalabilidade.  
+**Tecnologias:** Java, Spring Boot, microsserviços, Padrões de Design, CI/CD.  
 ✨ *Destaques:* Metodologias ágeis, práticas de alta disponibilidade e testes automatizados.
 
 ### [Curso_DevOpsENuvemNative](#)
