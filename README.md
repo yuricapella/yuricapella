@@ -11,7 +11,7 @@
 
 ## 🌎 Sobre Mim  
 - 🎓 Atualmente estou no **Curso Desenvolva+** da Ada & Mercado Livre, focado em back-end com Java.  
-- 📖 **Interesses:** Java, Python, automações, Robot Framework, QA e Luau.  
+- 📖 **Interesses:** Java, Python, Automações, Robot Framework, QA e Luau.  
 - 📍 **Localização:** São José, SC, Brasil.
 
 💬 **Vamos conectar?** [LinkedIn](https://www.linkedin.com/in/yuricapella/) | [Email](mailto:yuricapelladossantos@gmail.com)
