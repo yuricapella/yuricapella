@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2330A3DC&size=28&center=true&vCenter=true&width=800&lines=Arquiteto+de+Software+Sênior;💻+Java+|+Spring+Boot+|+microsserviços+|+Cloud+|+DevOps" alt="Arquiteto de Software Sênior">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2330A3DC&size=28&center=true&vCenter=true&width=800&lines=Arquiteto+de+Software+Sênior;💻+Java+|+Spring+Boot+|+Microsserviços+|+Cloud+|+DevOps" alt="Arquiteto de Software Sênior">
 </div>
 
 ## 🌎 Sobre Mim  
