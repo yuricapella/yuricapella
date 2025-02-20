@@ -6,7 +6,7 @@
 
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2330A3DC&size=28&center=true&vCenter=true&width=800&lines=Desenvolvedor+Back-End+Trainee;💻+Java+|+Python+|+Banco+de+Dados+|+Regex+|+Git" alt="Desenvolvedor Back-End Trainee">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2330A3DC&size=28&center=true&vCenter=true&width=800&lines=Desenvolvedor+Back-End;💻+Java+|+Python+|+Banco+de+Dados+|+Regex+|+Git" alt="Desenvolvedor Back-End">
 </div>
 
 ## 🌎 Sobre Mim  
