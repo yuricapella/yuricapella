@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2330A3DC&size=28&center=true&vCenter=true&width=800&lines=Arquiteto+de+Software+Sênior;💻+Java+|+Spring+Boot+|+Microservices+|+Cloud+|+DevOps" alt="Arquiteto de Software Sênior">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2330A3DC&size=28&center=true&vCenter=true&width=800&lines=Arquiteto+de+Software+Sênior;💻+Java+|+Spring+Boot+|+Microserviços+|+Cloud+|+DevOps" alt="Arquiteto de Software Sênior">
 </div>
 
 ## 🌎 Sobre Mim  
@@ -34,7 +34,7 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=fff) 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=fff) 
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=fff) 
-![Microservices](https://img.shields.io/badge/Microservices-000000?style=flat&logo=docker&logoColor=fff) 
+![Microserviços](https://img.shields.io/badge/Microserviços-000000?style=flat&logo=docker&logoColor=fff) 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=fff) 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=fff) 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=fff) 
@@ -44,7 +44,7 @@
 
 ## 🚀 Projetos em Destaque
 
-### [Projeto_Microservices](https://github.com/yuricapella/Projeto_Microservices)
+### [Projeto_Microserviços](https://github.com/yuricapella/Projeto_Microserviços)
 > Um sistema distribuído construído com arquitetura de microserviços para gerenciar grandes volumes de dados, integrado com soluções em nuvem e práticas de DevOps.  
 **Tecnologias:** Java, Spring Boot, Spring Cloud, Docker, Kubernetes, AWS.  
 ✨ *Destaques:* Escalabilidade automática, alta disponibilidade e integração contínua.
@@ -65,8 +65,8 @@
 ## 📚 Educação & Cursos Avançados
 
 ### [Curso_ArquiteturaInovadora](#)
-> Um curso avançado focado em projetar e otimizar sistemas distribuídos, com ênfase em microservices, padrões de design e escalabilidade.  
-**Tecnologias:** Java, Spring Boot, Microservices, Padrões de Design, CI/CD.  
+> Um curso avançado focado em projetar e otimizar sistemas distribuídos, com ênfase em Microserviços, padrões de design e escalabilidade.  
+**Tecnologias:** Java, Spring Boot, Microserviços, Padrões de Design, CI/CD.  
 ✨ *Destaques:* Metodologias ágeis, práticas de alta disponibilidade e testes automatizados.
 
 ### [Curso_DevOpsENuvemNative](#)
