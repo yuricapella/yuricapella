@@ -1,11 +1,11 @@
 [![Português](https://img.shields.io/badge/Portugu%C3%AAs-Clique%20Aqui-green)](README.md)
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2330A3DC&size=28&center=true&vCenter=true&width=800&lines=Senior+Back-End+Software+Engineer;💻+Java+|+Spring+Boot+|+Microservices+|+Cloud+|+DevOps" alt="Senior Back-End Software Engineer">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2330A3DC&size=28&center=true&vCenter=true&width=800&lines=Senior+Software+Architect;💻+Java+|+Spring+Boot+|+Microservices+|+Cloud+|+DevOps" alt="Senior Software Architect">
 </div>
 
 ## 🌎 About Me  
-- **Current Role:** Senior Back-End Software Engineer at **Mercado Livre**, leading projects that leverage microservices, distributed architectures, and cloud solutions with Java and Spring Boot.  
+- **Current Role:** Senior Software Architect at **Mercado Livre**, leading projects that leverage microservices, distributed architectures, and cloud solutions with Java and Spring Boot.  
 - **Interests:**  
   - 🚀 Continuous improvement in distributed architectures and microservices  
   - ☁️ Innovations in cloud computing  
@@ -15,7 +15,8 @@
   - 🎮 Development of interactive games and experiences on **Roblox** using **Luau**  
 - **Location:** São José, SC, Brazil.  
 
-💬 **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/yuricapella/) | [Email](mailto:yuricapelladossantos@gmail.com)
+💬 **Let's Connect:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/seuusuario/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=fff)](mailto:seuemail@example.com)
 
 ---
 
@@ -71,3 +72,24 @@
 > An intensive training on continuous integration, automated deployment, and cloud environment management, with a focus on DevOps tools.  
 **Technologies:** Docker, Kubernetes, Jenkins, AWS, Azure.  
 ✨ *Highlights:* Pipeline optimization, monitoring, and large-scale automation.
+
+---
+
+## 🏆 Certifications
+
+### [AWS Certified Solutions Architect – Associate](#)
+> Recognized certification validating expertise in designing and deploying scalable, highly available systems on AWS.  
+**Technologies:** AWS, Cloud Infrastructure, System Design.  
+✨ *Highlights:* Focused on cloud security, scalability, and cost optimization.
+
+### [Docker Certified Associate](#)
+> Industry-recognized certification demonstrating knowledge in containerization, Docker, and CI/CD.  
+**Technologies:** Docker, Kubernetes, Containerization, CI/CD.  
+✨ *Highlights:* Focus on container orchestration, image management, and deployment pipelines.
+
+### [Certified Kubernetes Administrator](#)
+> Official Kubernetes certification for professionals managing Kubernetes clusters and containerized applications.  
+**Technologies:** Kubernetes, Cloud-native solutions, System Administration.  
+✨ *Highlights:* Focus on cluster architecture, networking, and security.
+
+---
