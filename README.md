@@ -63,6 +63,23 @@
 
 
 ## 📚 Curso Desenvolva+
+O **Curso Desenvolva+** da Ada & Mercado Livre é uma formação completa em back-end com Java que me prepara para os desafios do mercado. Durante o curso, vou aprender:
+
+- 🔍 **Lógica de Programação** — Fundamentos para resolução de problemas e desenvolvimento do raciocínio lógico.  
+- 💻 **Programação Orientada a Objetos** — Conceitos essenciais para construir aplicações robustas.  
+- 🌐 **Desenvolvimento Web com Spring** — Criação de aplicações seguras e performáticas.  
+- ✅ **Testes Automatizados** — Técnicas para garantir a qualidade do software, com testes unitários, de integração e funcionais.  
+
+**Aulas Complementares:**  
+- 🔄 **Gitflow e Fluxo Empresarial no GitHub** — Padrões de commits, branches e licenças para um workflow profissional.  
+- 📋 **Metodologias e Boas Práticas (Scrum)** — Técnicas ágeis para gerenciamento e execução de projetos.  
+- 🐳 **Docker** — Containerização e orquestração para ambientes de desenvolvimento e produção.  
+- 🔗 **API REST** — Criação e consumo de APIs para integração de sistemas.  
+- 🏛️ **Arquitetura** — Design e otimização de sistemas distribuídos.  
+- 🔍 **Elasticsearch & Kibana** — Monitoramento e análise de dados para insights e performance.  
+
+> **Confira os repositórios abaixo com aulas e projetos práticos do curso!** 🚀
+
 ### ✏️ Aulas
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
   <a href="https://github.com/yuricapella/programacao-orientada-objetos-2">
