@@ -82,6 +82,9 @@ O **Curso Desenvolva+** da Ada & Mercado Livre é uma formação completa em bac
 
 ### ✏️ Aulas
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <a href="https://github.com/yuricapella/tecnicas-de-programacao">
+    <img height="125px" src="https://github-readme-stats.vercel.app/api/pin/?username=yuricapella&repo=tecnicas-de-programacao&theme=radical" />
+  </a>
   <a href="https://github.com/yuricapella/programacao-orientada-objetos-2">
     <img height="125px" src="https://github-readme-stats.vercel.app/api/pin/?username=yuricapella&repo=programacao-orientada-objetos-2&theme=radical" />
   </a>
@@ -98,6 +101,12 @@ O **Curso Desenvolva+** da Ada & Mercado Livre é uma formação completa em bac
 
 ### 📁 Projetos
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <a href="https://github.com/yuricapella/gerenciador-de-tarefas">
+    <img height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=yuricapella&repo=gerenciador-de-tarefas&theme=radical" />
+  </a>
+  <a href="https://github.com/yuricapella/e-commerce">
+    <img height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=yuricapella&repo=e-commerce&theme=radical" />
+  </a>
   <a href="https://github.com/yuricapella/poo1-projeto">
     <img height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=yuricapella&repo=poo1-projeto&theme=radical" />
   </a>
