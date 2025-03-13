@@ -107,11 +107,11 @@ O **Curso Desenvolva+** da Ada & Mercado Livre é uma formação completa em bac
   <a href="https://github.com/yuricapella/e-commerce">
     <img height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=yuricapella&repo=e-commerce&theme=radical" />
   </a>
-  <a href="https://github.com/yuricapella/poo1-projeto">
-    <img height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=yuricapella&repo=poo1-projeto&theme=radical" />
+  <a href="https://github.com/yuricapella/sistema-locacao-veiculos">
+    <img height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=yuricapella&repo=sistema-locacao-veiculos&theme=radical" />
   </a>
-  <a href="https://github.com/yuricapella/projeto-calculo-de-salario">
-    <img height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=yuricapella&repo=projeto-calculo-de-salario&theme=radical" />
+  <a href="https://github.com/yuricapella/calculo-de-salario">
+    <img height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=yuricapella&repo=calculo-de-salario&theme=radical" />
   </a>
 </div>
   
