@@ -65,10 +65,11 @@
 ## 📚 Curso Desenvolva+
 O **Curso Desenvolva+** da Ada & Mercado Livre é uma formação completa em back-end com Java que me prepara para os desafios do mercado. Durante o curso, vou aprender:
 
-- 🔍 **Lógica de Programação** — Fundamentos para resolução de problemas e desenvolvimento do raciocínio lógico.  
-- 💻 **Programação Orientada a Objetos** — Conceitos essenciais para construir aplicações robustas.  
-- 🌐 **Desenvolvimento Web com Spring** — Criação de aplicações seguras e performáticas.  
-- ✅ **Testes Automatizados** — Técnicas para garantir a qualidade do software, com testes unitários, de integração e funcionais.  
+- 🔍 Lógica de Programação — Fundamentos para resolução de problemas e desenvolvimento do raciocínio lógico.
+- 💻 Programação Orientada a Objetos — Conceitos essenciais para construir aplicações robustas.
+- 🔀 Técnicas de Programação — Manipulação de datas, programação funcional com lambda e streams, e programação paralela e assíncrona com threads e CompletableFuture.
+- 🌐 Desenvolvimento Web com Spring — Criação de aplicações seguras e performáticas.
+- ✅ Testes Automatizados — Técnicas para garantir a qualidade do software, com testes unitários, de integração e funcionais.
 
 **Aulas Complementares:**  
 - 🔄 **Gitflow e Fluxo Empresarial no GitHub** — Padrões de commits, branches e licenças para um workflow profissional.  
