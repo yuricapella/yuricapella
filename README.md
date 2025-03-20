@@ -128,15 +128,19 @@ O **Curso Desenvolva+** da Ada & Mercado Livre é uma formação completa em bac
 
 
 ## 📈 Atividade
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yuricapella&theme=react" alt="Activity Graph" />
-</p>
-
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=yuricapella&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yuricapella&color=brightgreen" alt="Profile views"/>
 </p>
 
+<!--
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yuricapella&theme=react" alt="Activity Graph" />
+</p>
+-->
 
 <!--
 gif
