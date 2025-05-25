@@ -48,9 +48,12 @@
 **Tecnologias:** Python, PyQt5, Watchdog, Regex, lxml, pdfplumber, pytesseract, Robot Framework.  
 ✨ *Destaques:* Extração precisa, monitoramento em tempo real e automação de processos.
 
-### [Projeto_Node](https://github.com/yuricapella/Projeto_Node)
-> Site desenvolvido com Node.js, Express e EJS, utilizando MySQL para gerenciamento de usuários.  
-**Tecnologias:** JavaScript (Node.js), Express.js, EJS, MySQL.
+### [Projeto_Ada](https://github.com/yuricapella/projeto-ada)
+
+> Site completo em Spring Boot com REST API, interface Thymeleaf, segurança e documentação via Swagger.
+> **Tecnologias:** Java 21, Spring Boot 3.4.4, Spring Web, Data JPA, Security, Validation, Thymeleaf, H2, Springdoc OpenAPI, JUnit 5, Mockito, Selenium, JaCoCo.
+> ✨ *Destaques:* Autenticação/Autorização (BCrypt), console H2, testes unitários e de integração, e documentação automática da API.
+
 
 ---
 
