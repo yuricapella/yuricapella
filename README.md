@@ -145,6 +145,7 @@ O **Curso Desenvolva+** da Ada & Mercado Livre é uma formação completa em bac
   <img src="https://komarev.com/ghpvc/?username=yuricapella&color=brightgreen" alt="Profile views"/>
 </p>
 
+
 <!--
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yuricapella&theme=react" alt="Activity Graph" />
