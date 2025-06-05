@@ -1,3 +1,4 @@
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/yuricapella/yuricapella/main/gif/apresentacao.gif" width="650" height="310"/>
 </p>
