@@ -13,8 +13,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=%2330A3DC&size=28&center=true&vCenter=true&width=800&lines=Desenvolvedor+Back-End;💻+Java+|+Python+|+Banco+de+Dados+|+Regex+|+Git" alt="Desenvolvedor Back-End">
 </div>
 
-## 🌎 Sobre Mim  
-- 🎓 Atualmente estou no **Curso Desenvolva+** da Ada & Mercado Livre, focado em back-end com Java.  
+## 🌎 Sobre Mim   
+- 👨‍💻 Atualmente atuo como **Jr Software Developer no Mercado Livre**
+- 🧠 Concluí o curso **Desenvolva+ Back-End com Java**, realizado pela **Ada Tech** em parceria com o **Mercado Livre**. 
 - 📖 **Interesses:** Java, Python, Automações, Robot Framework, QA e Luau.  
 - 📍 **Localização:** São José, SC, Brasil.
 
@@ -68,9 +69,8 @@
 
 ---
 
-
 ## 📚 Curso Desenvolva+
-O **Curso Desenvolva+** da Ada & Mercado Livre é uma formação completa em back-end com Java que me prepara para os desafios do mercado. Durante o curso, vou aprender:
+O **Curso Desenvolva+** da Ada & Mercado Livre é uma formação completa em back-end com Java que prepara para os desafios do mercado. Durante o curso, aprendi sobre:
 
 - 🔍 Lógica de Programação — Fundamentos para resolução de problemas e desenvolvimento do raciocínio lógico.
 - 💻 Programação Orientada a Objetos — Conceitos essenciais para construir aplicações robustas.
