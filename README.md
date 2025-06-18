@@ -14,7 +14,7 @@
 </div>
 
 ## 🌎 Sobre Mim   
-- 👨‍💻 Atualmente atuo como **Jr Software Developer no Mercado Livre**
+- 👨‍💻 Atualmente trabalho como **Jr Software Developer no Mercado Livre**
 - 🧠 Concluí o curso **Desenvolva+ Back-End com Java**, realizado pela **Ada Tech** em parceria com o **Mercado Livre**. 
 - 📖 **Interesses:** Java, Python, Automações, Robot Framework, QA e Luau.  
 - 📍 **Localização:** São José, SC, Brasil.
